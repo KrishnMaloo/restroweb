@@ -1,0 +1,153 @@
+*{
+    font-family: 'Ubuntu', sans-serif;
+}
+#heading{
+    /* display:inline-block; */
+    background-image:url(./bg4.png);
+    background-color: black;
+    background-repeat:no-repeat;
+    background-size:cover;
+    height:450px;
+    width:inherit;
+    text-align:center;
+    
+}
+#circle{
+    background-color:rgb(255, 255, 255);
+    color:orangered;
+    border:2px solid white;
+    border-radius:50%;
+    text-align:center;
+    display:inline-block;
+    width:110px;
+    height:110px;
+    padding:22px;
+    font-size:100px ;
+    margin:110px 0px 0px 0px;
+}
+#title{
+    
+    text-align: center;
+    color:rgb(255, 255, 255);
+    font-size: 30px;
+    
+}
+#inp{
+    text-align:center;
+}
+input{
+    padding:5px;
+    margin:5px;
+    width:200px;
+}
+input:focus{
+    font-size:15px;
+}
+#location{
+    margin-right:50px;
+    padding-right:-25px;
+}
+#restro{
+    padding-right:100px
+}
+#cred{
+    float:right;
+    margin-top:-380px;
+    margin-right:20px;
+    
+}
+a{
+    text-decoration: none;
+    font-size:18px ;
+    font-weight: bold;
+}
+#login{
+    color:white;
+    margin-right:10px;
+}
+a:hover{
+    font-size:25px;
+}
+#create{
+    color:white;
+    border:2px white solid;
+    padding:5px;
+    margin-left:10px;
+}
+#content{
+    margin-left:50px;
+}
+#heading1{
+    margin-top:40px;
+    color:rgb(63, 63, 118);
+
+}
+.light{
+    font-size:15px;
+    color:rgb(160, 160, 160);
+}
+
+.boxes{
+    padding-left:30px;
+}
+.box{
+    border:2px solid white;
+    box-shadow:3px 3px rgb(177, 177, 177);
+    height:130px;
+    width:25%;
+    display:inline-block;
+    margin:10px 30px 0px 30px; 
+}
+.box:hover{
+    height:135px;
+    width:30%;
+    background-color: rgba(223, 223, 222, 0.779);
+}
+.photu1{
+    height:125px;
+    width:40%;
+    background-color: black;
+    margin:2px;
+    float:left;
+    background-image:url(./bf.jpg);
+    background-size:cover;
+}
+.photu2{
+    height:125px;
+    width:40%;
+    background-color: black;
+    margin:2px;
+    float:left;
+    background-image:url(./lun.jpeg);
+    background-size:cover;            
+}
+.photu3{
+    height:125px;
+    width:40%;
+    background-color: black;
+    margin:2px;
+    float:left;
+    background-image:url(./snack.jpeg);
+    background-size:cover;
+}
+#he1{
+    color:rgb(63, 63, 118);
+    margin:3px;
+    clear:left;
+    
+}
+#he2{
+    color:rgb(63, 63, 118);
+    margin:3px;
+    clear:left;
+}
+#he3{
+    color:rgb(63, 63, 118);
+    margin:3px;
+    clear:left;
+    
+}
+.cen1{
+    padding:5px;
+    
+}
